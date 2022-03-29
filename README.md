@@ -5,6 +5,8 @@
 
 _Du kan ta bort all text som finns sedan tidigare_.
 
+Jag fixade så att android studio var kopplad till min github, ändrade hello world och laddade upp den på github.
+
 ## Följande grundsyn gäller dugga-svar:
 
 - Ett kortfattat svar är att föredra. Svar som är längre än en sida text (skärmdumpar och programkod exkluderat) är onödigt långt.
