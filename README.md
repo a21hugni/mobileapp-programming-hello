@@ -8,8 +8,7 @@ Jag fixade så att android studio var kopplad till min github, ändrade hello wo
         android:text="Watch me whip"
 ```
 
-Bilder läggs i samma mapp som markdown-filen.
 
-![](/relative/path/to/hello.png?raw=true "Bild")
+![](/hello.png?raw=true "Bild")
 
 
