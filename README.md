@@ -3,6 +3,8 @@
 
 **Skriv din rapport här!**
 
+Jag ändrade texten i textview från hello world till något eget.
+
 _Du kan ta bort all text som finns sedan tidigare_.
 
 Jag fixade så att android studio var kopplad till min github, ändrade hello world och laddade upp den på github.
