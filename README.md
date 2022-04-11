@@ -9,6 +9,6 @@ Jag fixade så att android studio var kopplad till min github, ändrade hello wo
 ```
 
 
-![](/hello.png?raw=true "Bild")
+![](hello.png)
 
 
